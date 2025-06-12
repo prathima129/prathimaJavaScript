@@ -29,4 +29,4 @@ Example
     age:"Buddhe ho tum .Buddhe!!!"
  }
  console.log(myfriend)
- console.log(myfriend.lname)
+ console.log(myfriend.age)

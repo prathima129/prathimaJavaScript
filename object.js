@@ -27,3 +27,23 @@ console.log(person)
 
 delete person.email //delete
 console.log(person)
+
+/*Array:collection of data and its type
+it stores data in an index format starts with */
+
+let fruits = ["Apple","Mango","Orange"]
+console.log(fruits)
+
+let cities=["Hyd","Mumbai","Delhi","Kolkata"]
+console.log(cities)
+
+let friends=["Rahman","Is","An","Idiot","Boy"]
+console.log(friends)
+console.log(friends[0])
+
+cities[2]="NP" //updating array element
+cities[4]="TN" //add element
+console.log(cities)
+
+delete cities[0] //delete the array
+console.log[cities]
